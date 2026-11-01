@@ -10,19 +10,20 @@ AI Engineer at Quintesys with a full-stack foundation in Django, React and Node.
 
 ## What I've built
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| **[Archiva](https://github.com/KULLOLLITARUN/Archiva)** | Self-hosted document Q&A that answers only from your documents, using hybrid retrieval, reranking and a self-healing retry loop. | Python, FastAPI, PostgreSQL, Groq, React |
-| **[PBIP Sentinel](https://github.com/KULLOLLITARUN/Power-BI-Report-Quality-Performance-Scanner)** | Static analysis and CI quality gate for Power BI projects. 94/94 true positives across 11 real models. [Live demo](https://pbip-sentinel.netlify.app/) | Python, TypeScript, MCP, SARIF |
-| **[Markpull](https://github.com/KULLOLLITARUN/Agentic-Web-Scraper)** | Say what you want from a web page in plain words and get structured data back, with every record marked on the page. | Python, FastAPI, Playwright, Groq, React |
-| **[AI Impact](https://github.com/KULLOLLITARUN/ai-impact)** | Change-impact and test-gap analysis for Python. Every number in a report traces back to the diff and the call graph. | Python, MCP, Gemini, Groq |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/KULLOLLITARUN/Archiva"><img src="card-archiva.svg" alt="Archiva: self-healing agentic RAG over your own documents" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/KULLOLLITARUN/Power-BI-Report-Quality-Performance-Scanner"><img src="card-pbip-sentinel.svg" alt="PBIP Sentinel: static analysis and CI quality gate for Power BI projects" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/KULLOLLITARUN/Agentic-Web-Scraper"><img src="card-markpull.svg" alt="Markpull: plain-English web extraction, with every record marked on the page" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/KULLOLLITARUN/ai-impact"><img src="card-ai-impact.svg" alt="AI Impact: change-impact and test-gap analysis for Python" width="100%"></a></td>
+  </tr>
+</table>
 
 ## What I work with
 
-**AI / ML:** RAG, hybrid retrieval (BM25 + dense), cross-encoder reranking, LLM agents, MCP servers, Groq, sentence-transformers, Pydantic
-**Languages:** Python, TypeScript, JavaScript, HTML, CSS
-**Frameworks:** FastAPI, React, Django, Node.js, Express, Playwright
-**Data:** PostgreSQL, MySQL, MongoDB
+<img src="skills.svg" alt="Skills: AI and ML (RAG, hybrid retrieval, reranking, LLM agents, MCP servers), Python, TypeScript, JavaScript, FastAPI, React, Django, Node.js, PostgreSQL, MySQL, MongoDB" width="100%">
 
 ## The portfolio itself
 
